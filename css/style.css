@@ -30,7 +30,6 @@ img {
 	--dark-color: #333;
 	--white-color: #fff;
 	--container-normal: 1100px;
-	--container-wide: 1400px;
 	--container-narrow: 900px;
 }
 /* END - SETUP CSS VARS SECTION */
@@ -73,7 +72,7 @@ img {
 }
 
 .container-lg {
-	max-width: var(--container-wide);
+	max-width: var(--container-normal);
 }
 
 .container-sm {
