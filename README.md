@@ -6,12 +6,17 @@
 ---
 
 ## 📌 Overview
-**Lumina Creative** is a sleek, user-friendly website designed to showcase creative digital services (e.g., branding, web design, and marketing). Built with a mobile-first approach, clean aesthetics, and intuitive navigation.
+**Lumina Creative** is a sleek, responsive showcase for a creative agency or individual, featuring:
+- Modern Design: Clean layout with a focus on visual content.
+- Interactive Gallery: Lightbox-enabled image grid to display portfolio work.
+- Key Sections: Hero banner with bold typography, gallery, and contact/footer.
+- Responsive Navigation: Simple menu for seamless browsing.
+- Social Integration: Links to social media platforms in the footer.
 
 ## 🛠️ Technologies Used
 | Category       | Tools/Libraries                                                                 |
 |----------------|---------------------------------------------------------------------------------|
-| **Frontend**   | HTML5 & CSS3       |
+| **Frontend**   | HTML5, CSS, Javascript (using lightbox2 for gallery pop-ups)     |
 | **Styling**    | CSS Flexbox/Grid, Responsive Design                                            |
 | **Deployment** | Hosted on Netlify                                                          |
 | **Tooling**    | Git, VS Code, Figma (for design mockups)                                        |
